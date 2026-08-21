@@ -1,4 +1,4 @@
-# **Plugin Name** Plugin
+# **Pronouns On Posts** Plugin
 
 **Plugin Summary**
 

@@ -1,4 +1,4 @@
-TODO_plugin_name:
-  plugin_name_enabled:
+pronouns_on_posts:
+  pronouns_on_posts_enabled:
     default: false
     client: true

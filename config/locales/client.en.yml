@@ -3,7 +3,7 @@ en:
     admin:
       site_settings:
         categories:
-          TODO_plugin_name: "Plugin Name"
+          pronouns_on_posts: "Pronouns On Posts"
   js:
-    discourse_plugin_name:
+    pronouns_on_posts:
       placeholder: placeholder
